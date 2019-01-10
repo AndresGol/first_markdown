@@ -5,8 +5,7 @@ markdown and gitHub
 # Andrés Goldestein
 > Remember, a few hours of trial and error can save you several minutes of looking at the README.😱
 
-
-Né en Argentine
+<p>Né à Buenos Aires</p>
 
 Préférences:
 
