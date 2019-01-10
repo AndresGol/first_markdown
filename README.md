@@ -27,8 +27,8 @@ Préférences:
  
 
 
-![alt text][logo]
+![portrait][logo]
 
-[logo]: http://www.spiritol.com/poortfolio/images/portrait_color.jpg
+[logo]: http://www.spiritol.com/poortfolio/images/portrait_color.jpg 
 
 
