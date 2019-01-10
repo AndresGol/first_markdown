@@ -32,3 +32,6 @@ Préférences:
 [logo]: http://www.spiritol.com/poortfolio/images/portrait_color.jpg 
 
 
+![portrait][logo]
+
+[logo]: (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1D-TX_0jzStqW9k5qI-qhY2DvCRC8ZcG9EjkfhsCs6QBgHZI) 
